@@ -2,7 +2,7 @@
 
 Reminder Homeworks is a simple and modern To-Do List web app designed for organizing homework and projects efficiently. It lets users `add`, `edit`, `delete`, and `mark tasks as completed`, with tasks stored locally for persistence.
 
-With an intuitive UI, smooth animations, and filter options (**All**, **In Progress**, **Finished**), managing tasks becomes effortless.
+With an intuitive UI, smooth animations, and filter options (**All**, **In Progress**, **Finished**), managing tasks becomes effortless and much more efficient.
 
 ---
 
